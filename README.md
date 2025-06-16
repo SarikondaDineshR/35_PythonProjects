@@ -1,22 +1,17 @@
-# 🐍 35 Python Projects Collection 🚀
+#  33 Python Projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python Logo" width="200"/>
 </p>
 
-<h3 align="center">A collection of 35 fun Python projects for beginners!</h3>
-<p align="center">Based on the YouTube Crash Course by <a href="https://youtu.be/mMzwOZQJIcE?si=My2Mxl17kvhbYUtE">burakorkmez</a></p>
+<h3 align="center">My Hands-On 33 projects Using Python </h3>
+<p align="center">Thanks To YouTube Crash Course by <a href="https://youtu.be/mMzwOZQJIcE?si=My2Mxl17kvhbYUtE">burakorkmez</a></p>
 
 ## 📚 About
 
-This repository contains 35 Python projects designed to help beginners learn programming concepts through hands-on practice. Each project focuses on different aspects of Python and increases in complexity, providing a comprehensive learning path from absolute beginner to confident programmer.
+This repository contains 35 Python projects designed to provide hands-on experience, learning programming concepts through practical exercises.
+Each project focuses on different aspects of Python and increases in complexity, providing a comprehensive learning path from absolute beginner to confident programmer.
 
-Perfect for:
-
-- 🔰 Complete beginners to programming
-- 🧠 Those wanting to strengthen their Python fundamentals
-- 🎓 Students looking for fun coding projects
-- 👨‍💻 Self-taught developers seeking structured practice
 
 ## 🔥 Projects List
 
@@ -57,11 +52,3 @@ Perfect for:
 | 32  | [Task Manager GUI](/32-task-manager)                     | Task manager with GUI         | ✅     |
 | 33  | [Drawing App](/33-drawing-app)                           | Simple drawing application    | ✅     |
 
-## 📚 Bonus 2 Projects
-
-| #   | Project Name                                                               | Description                       | Status |
-| --- | -------------------------------------------------------------------------- | --------------------------------- | ------ |
-| 34  | [Python Chat App](https://github.com/burakorkmez/python-chat)              | Python Realtime Chat Applications | ✅     |
-| 35  | [Full Stack Web App](https://github.com/burakorkmez/react-python-tutorial) | Python & React Tutorial           | ✅     |
-
-## 🚀 Happy Coding!
